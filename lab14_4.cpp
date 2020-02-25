@@ -18,6 +18,7 @@ int main(){
 	return 0;
 }
 
+//Write definition of shuffle() using pointer here
 void shuffle(int &a,int &b, int &c, int &d){
 	int x[4] = {a,b,c,d};
 	int j,k,temp;
